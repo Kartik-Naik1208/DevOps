@@ -5,5 +5,6 @@ class DEMO {
         System.out.println("Learning Version Control");
         System.out.println("My First Git Program");
         System.out.println("Second version of my program");
+        System.out.println("Learning Git version control");
     }
 }
